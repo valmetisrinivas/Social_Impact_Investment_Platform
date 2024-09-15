@@ -3,4 +3,4 @@ A platform for investing in best performing yet socially responsible companies i
 
 - Github link: https://github.com/valmetisrinivas/Social_Impact_Investment_Platform
 
-- Demo link: vsrinivas/Social_Impact_Investment_Platform
+- Demo link: https://huggingface.co/spaces/vsrinivas/Social_Impact_Investment_Platform
